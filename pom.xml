@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.example</groupId>
-  <artifactId>devops_new</artifactId>
+  <artifactId>project1</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <properties>
@@ -25,5 +25,6 @@
     </plugins>
   </build>
 </project>
+
 
 
